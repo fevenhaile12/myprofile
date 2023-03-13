@@ -23,3 +23,5 @@ My name is Feven Haile and I am a student in the YearUp Project Managment progra
 ---
 ---
 My biggest accomplishment during your Year Up journey that I am most proud of is finishing Coursera and recieving my Google Project Management Certificate.
+
+[Feven's LinkedIn](https://www.linkedin.com/in/feven-haile-a80669261/)
