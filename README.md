@@ -12,11 +12,11 @@ My name is Feven Haile and I am a student in the YearUp Project Managment progra
 ## Year Up Program Management
 ---
 ---
-1) I'm excited for the new oppurtunities that YearUp will give me that was not available in my previous career. YearUp gave me the oppurtunity to explore a completely different industry or role that aligns more closely with my interests and passions.
+### 1) I'm excited for the new oppurtunities that YearUp will give me that was not available in my previous career. YearUp gave me the oppurtunity to explore a completely different industry or role that aligns more closely with my interests and passions.
 
-2)Changing my career paths provides opportunities for me to network with new people and build relationships in a new industry. This helps me expand your professional network and potentially open up new job opportunities in the future.
+### 2) Changing my career paths provides opportunities for me to network with new people and build relationships in a new industry. This helps me expand your professional network and potentially open up new job opportunities in the future.
 
-3) YearUp gave me the oppurtunity for personal growth. YearUp taught me new skills, challenged me in new ways, and develop a more diverse set of experiences that will benefit me in the long run.
+### 3) YearUp gave me the oppurtunity for personal growth. YearUp taught me new skills, challenged me in new ways, and develop a more diverse set of experiences that will benefit me in the long run.
 ---
 ---
 ## Accomplishment: 
